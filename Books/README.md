@@ -1,14 +1,16 @@
 # Books
 
-1. **Algorithms** - Jeff Erickson
-2. **Crash Course Coding Companion** - Samuel Hsiang, Alexander Wei, Yang Lu
-3. **The Hitchhiker’s Guide to the Programming Contests** - Nite Nimajneb
-4. **Competitve Programmer's Handbook** - Antti Laaksonen
-5. **Guide to Competititve Programming** - Antti Laaksonen ([link](https://www.amazon.in/Guide-Competitive-Programming-Algorithms-Undergraduate/dp/3319725467))
-6. **Looking for a Challenge** - University of Warsaw
-7. **Principles of Algorithmic Solving** - Johan Sannemo
-8. **Programming Challenges** - Steven S. Skiena, Miguel A. Revilla ([link](https://www.amazon.in/Programming-Challenges-Contest-Training-Computer/dp/0387001638))
-9. **The Algorithm Design Manual** - Steven S. Skiena ([link](https://www.amazon.in/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202))
-10. **Competitve Programming** - Steven Halim ([link](https://cpbook.net/))
-11. **An Introduction to the USA Computing Olympiad** - Darren Yao
-12. **Introduction to Algorithms** - Cormen, Leiserson, Rivest, Stein ([link](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844))
+1. **Algorithms** - Jeff Erickson ([Read/Download](http://jeffe.cs.illinois.edu/teaching/algorithms/book/Algorithms-JeffE.pdf))
+2. **Crash Course Coding Companion** - Samuel Hsiang, Alexander Wei, Yang Lu ([Read/Download](https://github.com/Knuth-Programming-Hub/CP-Resources/blob/master/Books/crash%20course%20coding%20companion%20-%20MIT.pdf))
+3. **The Hitchhiker’s Guide to the Programming Contests** - Nite Nimajneb ([Read/Download](https://comscigate.com/Books/contests/icpc.pdf))
+4. **Competitve Programmer's Handbook** - Antti Laaksonen ([Read/Download](https://cses.fi/book/book.pdf))
+5. **Guide to Competititve Programming** - Antti Laaksonen ([Buy](https://www.amazon.in/Guide-Competitive-Programming-Algorithms-Undergraduate/dp/3319725467))
+6. **Looking for a Challenge** - University of Warsaw ([Read/Download](https://www.mimuw.edu.pl/~idziaszek/algonotes/looking-for-a-challenge-2-en.pdf))
+7. **Principles of Algorithmic Solving** - Johan Sannemo ([Read/Download](http://csc.kth.se/~jsannemo/slask/main.pdf))
+8. **Programming Challenges** - Steven S. Skiena, Miguel A. Revilla ([Buy](https://www.amazon.in/Programming-Challenges-Contest-Training-Computer/dp/0387001638))
+9. **The Algorithm Design Manual** - Steven S. Skiena ([Buy](https://www.amazon.in/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202))
+10. **Competitve Programming** - Steven Halim ([Buy](https://cpbook.net/))
+11. **An Introduction to the USA Computing Olympiad** - Darren Yao ([Read/Download](http://darrenyao.com/usacobook/cpp.pdf))
+12. **Introduction to Algorithms** - Cormen, Leiserson, Rivest, Stein ([Buy](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844))
+13. **Discrete Mathematics and Its Applications** - Kenneth H. Rosen ([Buy](https://www.amazon.in/Discrete-Mathematics-Applications-McGraw-Hill-International/dp/0071167560/))
+14. **How to Solve it** - G. Polya ([Buy](https://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069111966X))
