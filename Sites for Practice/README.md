@@ -1,7 +1,13 @@
 # Websites for Practice
- 
 
-| CSES Problem Set | (https://cses.fi/problemset) |
+| Site Name | Description |
 | ------------- | ------------- |
-| Codeforces  | | https://codeforces.com |
-| HackerRank  | https://www.hackerrank.com |
+| [CSES Problem Set](https://cses.fi/problemset) | |
+| [Codeforces](https://codeforces.com) |           |
+| [HackerRank](https://www.hackerrank.com) |       |
+| [HackerEarth](https://www.hackerearth.com) |     |
+| [Codechef] (https://www.codechef.com) |          |
+| [AtCoder](https://atcoder.jp/) |                 |
+| [SPOJ](https://www.spoj.com/) |                  | 
+
+
