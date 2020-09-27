@@ -1,13 +1,11 @@
 # Websites for Practice
 
-| Site Name | Description |
-| ------------- | ------------- |
-| [CSES Problem Set](https://cses.fi/problemset) | A good way to practice all sort of problems |
-| [Codeforces](https://codeforces.com) | Highly recommended for its high quality content and also for a large variety of questions , Virtual Contests are another great way to improve your speed and accuracy |
-| [HackerRank](https://www.hackerrank.com) | A good user friendly Website where you can easily become proficient in different langauges and also with some basic tools of programming , Also HackerRank is also recommended for the very first stages (for ex :- learning a Language) |
-| [HackerEarth](https://www.hackerearth.com) | A great place to learn theory and practice it and also different tools of programming , Also HackerEarth provides you a great way of practising topics wiht its different kind of challenges|
-| [Codechef](https://www.codechef.com) | Long contests being a special quality of Codechef helps in learning various Data Structures and Algorithms which helps you in becoming more efficient |
-| [AtCoder](https://atcoder.jp/) | Highly recommended for its Beginner Contests , they provide the actual feel of a Online round even for the beginners , do give it a try if you're getting started towards CP |
-| [SPOJ](https://www.spoj.com/) | A great pool of different variety of questions , Also preferred for its Classical and Standard Program | 
-
-
+| Site Name                                      | Description                                                                                                                                                                                                   |
+| ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Codeforces](https://codeforces.com)           | Highly recommended for its high quality content and also for a large variety of problems. Virtual Contests are another great way to improve your speed and accuracy. Highly active community is a plus point. |
+| [AtCoder](https://atcoder.jp/)                 | Highly recommended for its Beginner Contests. Known for it's quality problems. Do give it a try if you're getting started with CP.                                                                            |
+| [Codechef](https://www.codechef.com)           | Has been very active in improving the Indian CP scene through it's various initiatives. It's Long Challenge is recommended.                                                                                   |
+| [CSES Problem Set](https://cses.fi/problemset) | Developed by Antti Laaksonen, it contains mostly educational problems.                                                                                                                                        |
+| [HackerRank](https://www.hackerrank.com)       | A good user-friendly website where you can easily learn different langauges and practice problems. It is recommended for the intial stages (for eg :- learning a language) of your CP journey.                |
+| [HackerEarth](https://www.hackerearth.com)     | A great place to learn theory and practice it. Organises three monthly contests including a long challenge.                                                                                                   |
+| [SPOJ](https://www.spoj.com/)                  | Provides a great pool of different variety of problems. Preferred for its Classical and Standard problems.                                                                                                    |
