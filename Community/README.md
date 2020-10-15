@@ -24,10 +24,10 @@ CodeChef's IPC video playlists: [2016](https://www.youtube.com/playlist?list=PLi
 | [Ashish Gupta](https://www.quora.com/profile/Ashish-Gupta-211)         | [Lalit Kundu](https://www.quora.com/profile/Lalit-Kundu)       |
 | [Brian Bi](https://www.quora.com/profile/Brian-Bi)                     | [Raziman T.V.](https://www.quora.com/profile/Raziman-T-V)      |
 
-\
-[Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
-\
-[IIITH Threads](https://www.quora.com/q/threadsiiithyderabad)
+<br>
+
+-   [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming)
+-   [IIITH Threads](https://www.quora.com/q/threadsiiithyderabad)
 
 \
 [For more...](https://github.com/lnishan/awesome-competitive-programming#quora)

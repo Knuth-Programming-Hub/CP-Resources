@@ -7,5 +7,4 @@
 -   [Must Checkout Resources](https://codeforces.com/blog/entry/44991)
 -   [How to get better?](https://lukipuki.github.io/contest-wiki/get-better.html)
 -   Comments on CodeForces - [by YouKn0wWho](https://codeforces.com/blog/entry/79449#comment-651688), [by foundLoveOfMyLife](https://codeforces.com/blog/entry/44081#comment-306037)
--   GitHub Repos
-    -   [Ashishgup](https://github.com/Ashishgup1/Competitive-Coding), [Benq](https://github.com/bqi343/USACO), [Errichto](https://github.com/Errichto/youtube), [KACTL](https://github.com/kth-competitive-programming/kactl)
+-   GitHub Repos - [Ashishgup](https://github.com/Ashishgup1/Competitive-Coding), [Benq](https://github.com/bqi343/USACO), [Errichto](https://github.com/Errichto/youtube), [KACTL](https://github.com/kth-competitive-programming/kactl)
