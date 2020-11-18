@@ -1,6 +1,6 @@
 # Tools
 
--   IDEs and Editors - [Code::Blocks](http://codeblocks.org/downloads), [Sublime Text](https://www.sublimetext.com/3), [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/)
+-   IDEs and Editors - [Code::Blocks](http://codeblocks.org/downloads), [Sublime Text](https://www.sublimetext.com/3) [(C++ CP Installation guide for Windows)](https://blog.codingblocks.com/2019/setting-up-a-c-competitive-programming-environment/) , [Atom](https://atom.io/), [Visual Studio Code](https://code.visualstudio.com/)
 -   [Stopstalk](https://www.stopstalk.com/)
 -   [CList](https://clist.by/)
 -   [CF Visualiser](https://cfviz.netlify.com/)
